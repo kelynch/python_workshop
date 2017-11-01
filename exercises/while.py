@@ -2,7 +2,7 @@
 
 #####
 ## Sample Python Exercise for WIC Programming Workshop
-## November 2016
+## November 2017
 ## Katherine Lynch
 ## While
 
